@@ -498,7 +498,7 @@
     <distributionManagement>
         <repository>
             <id>GameOfLife</id>
-            <url>http://ip-172-31-11-0.ec2.internal:8081/nexus/content/repositories/GameOfLife</url>
+            <url>http://ec2-107-23-118-198.compute-1.amazonaws.com:8081/nexus/content/repositories/GameOfLife</url>
         </repository>
     </distributionManagement>
 </project>
